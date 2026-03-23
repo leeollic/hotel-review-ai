@@ -1,4 +1,4 @@
-AI Hotel Review Sentiment Analyzer
+# AI Hotel Review Sentiment Analyzer
 
 This project is a machine learning-based sentiment analysis system for hotel reviews.
 
